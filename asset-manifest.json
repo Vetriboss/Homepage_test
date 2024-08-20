@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d65ab4f2.css",
+    "main.js": "/static/js/main.b427f791.js",
+    "static/media/TheTeam.png": "/static/media/TheTeam.c315eb94696cf6d82ac8.png",
+    "static/media/CEO.png": "/static/media/CEO.1c1d29da310e219685de.png",
+    "static/media/CMO.png": "/static/media/CMO.d05705cf7a45922620e9.png",
+    "static/media/CFO.png": "/static/media/CFO.60b50f44791ecdc176e8.png",
+    "static/media/CTO.png": "/static/media/CTO.24fa8192393ab2735161.png",
+    "static/media/logo.png": "/static/media/logo.cd64f8c5a4dd11ebb1eb.png",
+    "static/media/web-dev.svg": "/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/footer.svg": "/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "index.html": "/index.html",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.d65ab4f2.css.map": "/static/css/main.d65ab4f2.css.map",
+    "main.b427f791.js.map": "/static/js/main.b427f791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65ab4f2.css",
+    "static/js/main.b427f791.js"
+  ]
+}
